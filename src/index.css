@@ -1,0 +1,24 @@
+.rs-panel {
+    margin: 10px 5px;
+}
+
+.rs-progress-line {
+    padding: 12px 0 !important;
+}
+
+span {
+    margin-right: 10px;
+}
+
+.rs-slider {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.rs-slider-handle::before {
+    border-color: #ffc107 !important;
+}
+
+.rs-btn-ghost {
+    cursor: text !important;
+}
